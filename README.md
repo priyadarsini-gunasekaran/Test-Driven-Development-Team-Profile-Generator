@@ -46,6 +46,9 @@ We are excited that you are reading this and are willing to contribute. No need 
 ## Tests
 Open this file in VS Code to test it. Using the terminal, open the Team Profile Generator folder and run the 'npm run test' command. You can view a preview of the test this application.
 
+## Home page for my Team Profile Generator.
+![Home page for My Team Profile Generator.](./assets/Team.jpg)
+
 ## Please contact me using the following links:
 
 Email: priyasatish1626@gmail.com
